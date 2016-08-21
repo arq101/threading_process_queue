@@ -51,7 +51,7 @@ class TemplateQueueProcessor(object):
             with open(json_data_file, 'r') as fh:
                 data = json.load(fh)
         except ValueError:
-            print("Error: check the format of the JSON data file!")
+            logger.error("Error: check the format of the JSON data file!")
             raise
 
         for item in data:
