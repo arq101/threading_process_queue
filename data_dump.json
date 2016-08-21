@@ -1,0 +1,15 @@
+[
+{"action": "apply", "when": "2016-4-19 10:00:00", "template": "Upsilon Hyperes"},
+{"action": "store", "when": "2016-4-20 10:00:00", "template": "Sigma Aquarii"},
+{"action": "apply", "when": "2016-4-21 10:00:00", "template": "Zephyrus"},
+{"action": "apply", "when": "2016-4-22 10:00:00", "template": "Asteria Star System"},
+{"action": "ignore", "when": "2016-4-23 10:00:00", "template": "Boreas Galaxy"},
+{"action": "None", "when": "2016-4-24 10:00:00", "template": "Droplet Nebula"},
+{"action": "None", "when": "2016-4-25 10:00:00", "template": "Sawblade Cloud"},
+{"action": "apply", "when": "2016-4-26 10:00:00", "template": "Acorn Star System"},
+{"action": "", "when": "2016-4-27 10:00:00", "template": "BH-50"},
+{"action": "", "when": "2016-4-28 10:00:00", "template": "SPF 2C"},
+{"action": "apply", "when": "2016-4-28 10:00:00", "template": "Perileos Galaxy"},
+{"action": "store", "when": "2016-5-3 10:00:00", "template": "Dioscuri Star System"},
+{"action": "apply", "when": "2016-5-4 10:00:00"}
+]
