@@ -1,8 +1,8 @@
 # Example using multi-threading to process a queue continuously in the background while the program runs.
 
 As soon as the class from the module 'queue_processor' is instantiated,
-it begins to check for items in a priority queue every n interval (in seconds).
-For every item found in the priority queue, it prints the item's template to a output file.
+it begins to check for items in a priority queue every n seconds.
+For every item found in the priority queue, it prints the item's template to an output file.
 
 ## Execute the script
 
